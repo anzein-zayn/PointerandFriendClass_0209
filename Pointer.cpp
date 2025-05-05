@@ -13,3 +13,12 @@ int main ()
     c = &y;
     cout << " Alamat Memori : " << c << endl;
     cout << " Nilai dari C : " << *c << endl;
+
+    //refrence
+    int &d = b;
+    cout << " NIlai: " << d << endl;
+    cout << " Refrences :" << &d << endl;
+
+    int f = 5;
+    int g = f;
+}
