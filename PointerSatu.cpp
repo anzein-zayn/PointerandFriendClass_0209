@@ -13,5 +13,5 @@ public :
 
 int main ()
 {
-    
+    mahasiswa mhs; // Object mhs
 }
