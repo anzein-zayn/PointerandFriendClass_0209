@@ -14,4 +14,6 @@ public :
 int main ()
 {
     mahasiswa mhs; // Object mhs
+    mhs.nim = 2024;
+    mhs.showNim(); // Member Access Operator
 }
